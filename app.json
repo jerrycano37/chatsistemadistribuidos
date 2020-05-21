@@ -1,0 +1,6 @@
+{
+  "name": "Chat Sistemas Distribuidos",
+  "description": "Tarea",
+  "repository": "https://sistemadistribuidochat.herokuapp.com/",
+  "keywords": ["node", "websocket", "socket.io"]
+}
